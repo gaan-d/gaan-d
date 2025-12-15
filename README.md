@@ -27,27 +27,23 @@ _Стэк:_
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-181717?style=for-the-badge&logo=intellijidea)
 <br/>
 
-
 <p><i>Моя статистика:</i></p>
 
-<table>
-  <tr>
-    <td valign="top">
-      <img height="130"
-           src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
-    </td>
-    <td valign="top">
-      <img height="130"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=gaan-d">
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
+  </a>
+</p>
 
 <p>
   <a href="https://leetcode.com/Timution/">
     <img src="https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
 
 
 
