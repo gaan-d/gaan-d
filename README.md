@@ -30,25 +30,25 @@ _Стэк:_
 
 <p><i>Моя статистика:</i></p>
 
-<p>
-  <a href="https://github-readme-stats.vercel.app/api?username=gaan-d" style="vertical-align: top;">
-    <img height="130"
-         style="vertical-align: top;"
-         src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
-  </a>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" style="vertical-align: top;">
-    <img height="130"
-         style="vertical-align: top;"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img height="130"
+           src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
+    </td>
+    <td valign="top">
+      <img height="130"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 <p>
   <a href="https://leetcode.com/Timution/">
     <img src="https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
 
 
 
