@@ -31,7 +31,7 @@ _Стэк:_
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=gaan-d">
-    <img height="138"
+    <img height="134"
          src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact">
