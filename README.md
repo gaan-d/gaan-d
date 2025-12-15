@@ -29,29 +29,35 @@ _Стэк:_
 
 <p><i>Моя статистика:</i></p>
 
-<p>
-  <a href="https://github-readme-stats.vercel.app/api?username=gaan-d">
-    <img
-      width="320"
-      height="130"
-      src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true"
-    />
-  </a>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact">
-    <img
-      width="320"
-      height="130"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github-readme-stats.vercel.app/api?username=gaan-d">
+        <img
+          width="320"
+          height="130"
+          src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true"
+        />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact">
+        <img
+          width="320"
+          height="130"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
   <a href="https://leetcode.com/Timution/">
     <img src="https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
 
 
 
