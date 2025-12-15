@@ -28,16 +28,23 @@ _Стэк:_
 <br/>
 
 
-_Моя статистика:_
+<p><i>Моя статистика:</i></p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=gaan-d&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact">
-  <img align="left" height="130" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
-</a>
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=gaan-d">
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=gaan-d&hide=contribs&show_icons=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
+  </a>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode)](https://leetcode.com/Timution/)
+<p>
+  <a href="https://leetcode.com/Timution/">
+    <img src="https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
 
 
 
