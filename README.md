@@ -37,7 +37,7 @@ _Моя статистика:_
   <img align="left" height="130" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaan-d&layout=compact" />
 </a>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Timution?theme=dark&font=Karma)](https://leetcode.com/Timution/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode)](https://leetcode.com/Timution/)
 
 
 
