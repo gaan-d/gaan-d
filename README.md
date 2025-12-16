@@ -1,6 +1,9 @@
 ## Привет!👋
 
 - Java-разработчик
+В активном поиске
+
+
 
 _Стэк:_ 
 <br>
@@ -45,7 +48,6 @@ _Стэк:_
     <img src="https://img.shields.io/badge/LeetCode-Timution-181717?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
-
 
 
 
